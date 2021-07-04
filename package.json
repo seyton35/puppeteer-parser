@@ -1,0 +1,28 @@
+{
+  "name": "puppeteer-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parser.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node parser.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seyton35/puppeteer-parser.git"
+  },
+  "keywords": [
+    "puppeteer",
+    "parser"
+  ],
+  "author": "koppy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seyton35/puppeteer-parser/issues"
+  },
+  "homepage": "https://github.com/seyton35/puppeteer-parser#readme",
+  "dependencies": {
+    "puppeteer": "^10.1.0"
+  }
+}
